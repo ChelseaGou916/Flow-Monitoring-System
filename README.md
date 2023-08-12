@@ -1,2 +1,5 @@
-# Flow-Monitoring-System
-Flow Monitoring System based on AWS Cloud Services and Raspberry Pi
+# Flow Monitoring System based on AWS Cloud Services and Raspberry Pi
+<br>
+Compared to the traditional manual counting method, our team has developed a robust Flow Monitoring system leveraging Internet of Things (IoT) technology and AWS. This innovative system offers substantial savings in both manpower and financial resources. Its consistent and dependable operation over extended periods eliminates the potential inaccuracies inherent in manual counting due to human error and fatigue.
+<br>
+The Flow Monitoring system is exceptionally versatile and finds valuable applications in high-traffic environments such as shopping malls, supermarkets, train stations, airports, hotels, and educational institutions. This advanced solution facilitates the accurate collection and analysis of visitor traffic data. By strategically deploying sensors at key entry points, the system precisely tracks the flow of visitors, recording their entry and exit times. Administrators of these locations are granted access to a dedicated website that presents the compiled visitor traffic statistics gathered by the Flow Monitoring system.
